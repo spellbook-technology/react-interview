@@ -8,7 +8,7 @@ Hey 👋 Welcome to Spellbook's React Test - v1. The goal of this exercise is to
 
 The web application that you will need to build should take less than 2 hours to build without additional research and learning time.
 
-You will be building the beginnings of an e-commerce web app. We have provided you with a fully functioning backend. The API is hosted at [Render](https://render.com) on a free plan and may be inactive. Wake it up by sending an initial HTTP request. After ~30 seconds, the service should become active and start to function normally.
+You will be building the beginnings of an e-commerce web app. We have provided you with a fully functioning backend. More information about the API is listed below. The API is hosted at [Render](https://render.com) on a free plan and may be inactive. Wake it up by sending an initial HTTP request. After ~30 seconds, the service should become active and start to function normally.
 
 ## Objectives
 
